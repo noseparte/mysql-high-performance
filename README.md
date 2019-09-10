@@ -4,15 +4,15 @@
 
 ### MySQL架构和历史
 
-#### [1.1 MySQL逻辑架构](static/doc/chapter1/framework.md)
+#### [1.1 MySQL逻辑架构](static/doc/chapter1/framework/framework.md)
 
 ##### [1.1.1 连接管理与安全性](static/doc/chapter1/framework/conn-and-security/connection-management-and-security.md)
 ##### [1.1.2 优化与执行](static/doc/chapter1/framework/optimize-and-impl/connection-management-and-security.md)
 
-#### 1.2 并发控制
+#### [1.2 并发控制](static/doc/chapter1/concurrency-control/concurrency.md)
 
-##### 1.2.1 读写锁
-##### 1.2.2 锁粒度
+##### [1.2.1 读写锁](static/doc/chapter1/concurrency-control/read-write-lock/read-write-lock.md)
+##### [1.2.2 锁粒度](static/doc/chapter1/concurrency-control/locking-granularity/locking-granularity.md)
 
 #### 1.3 事务
 

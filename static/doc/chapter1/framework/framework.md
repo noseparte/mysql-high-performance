@@ -1,6 +1,6 @@
 ### 1.1 MySQL逻辑架构
 
-![图1.1： MySQL服务器逻辑架构图](../../images/mysql-db-frame.png)
+![图1.1： MySQL服务器逻辑架构图](../../../images/mysql-db-frame.png)
 
 ```
 最上层的服务并不是MySQL所独有的，大多数基于网络的客户端/服务器的工具或者服务都有类似的架构。 
