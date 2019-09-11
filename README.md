@@ -14,9 +14,9 @@
 ##### [1.2.1 读写锁](static/doc/chapter1/concurrency-control/read-write-lock/read-write-lock.md)
 ##### [1.2.2 锁粒度](static/doc/chapter1/concurrency-control/locking-granularity/locking-granularity.md)
 
-#### 1.3 事务
+#### [1.3 事务](static/doc/chapter1/transaction/transaction.md)
 
-##### 1.3.1 隔离级别
+##### [1.3.1 隔离级别](static/doc/chapter1/transaction/isolation-level/isolation-level.md)
 ##### 1.3.2 死锁
 ##### 1.3.3 事务日志
 ##### 1.3.3 MySQL中的事务
