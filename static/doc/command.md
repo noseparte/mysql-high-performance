@@ -72,3 +72,12 @@ INSERT INTO innodb_table SELECT * FROM myisam_table WHERE id BETWEEN x AND y;
 COMMIT;
 ```    
 
+
+
+#### MySQL慢查询日志 (slow_query_log)
+    
+```mysql
+# MySQL慢查询是否开启
+show global variables like '%slow_query_log%';
+```    
+
