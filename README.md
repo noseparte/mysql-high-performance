@@ -17,9 +17,9 @@
 #### [1.3 事务](static/doc/chapter1/transaction/transaction.md)
 
 ##### [1.3.1 隔离级别](static/doc/chapter1/transaction/isolation-level/isolation-level.md)
-##### 1.3.2 死锁
-##### 1.3.3 事务日志
-##### 1.3.3 MySQL中的事务
+##### [1.3.2 死锁](static/doc/chapter1/transaction/deadlock/deadlock.md)
+##### [1.3.3 事务日志](static/doc/chapter1/transaction/transaction-journal/transaction-journal.md)
+##### [1.3.3 MySQL中的事务](static/doc/chapter1/transaction/mysql-transaction/mysql-transaction.md)
 
 #### 1.4 多版本并发控制
 
@@ -34,3 +34,9 @@
 
 #### 1.7 MySQL的开发模式
 
+
+
+
+## 附录
+
+### [MySQL的命令汇总](static/doc/command.md)
